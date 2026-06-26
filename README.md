@@ -22,3 +22,11 @@ PivotTables, and Charts.
 - Data Visualization (Bar, Column, Horizontal Bar charts)
 - Conditional Formatting
 - Dashboard Layout & Design
+## Key Findings 
+* Points inflation is real: average score grew from ~10 (1950s) to ~180 (2020s)
+* Ukraine finished in Top 5 eight times despite competing since 2003
+* Salvador Sobral (Portugal, 2017) holds the all-time record with 758 point
+* Western European "Big 5" dominate participation count but not average points
+## Files
+* Eurovision_AllFinals.csv
+* Pet_project_excel.xlsx 
